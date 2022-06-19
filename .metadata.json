@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CIplot",
+    "oncran": true
+  },
+  {
+    "package": "makedummies",
+    "oncran": true
+  }
+]
