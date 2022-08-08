@@ -1,5 +1,9 @@
 [
   {
+    "package": "brunnermunzel",
+    "oncran": true
+  },
+  {
     "package": "CIplot",
     "oncran": true
   },
