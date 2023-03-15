@@ -1,14 +1,14 @@
 [
   {
+    "package": "makedummies",
+    "oncran": true
+  },
+  {
     "package": "brunnermunzel",
     "oncran": true
   },
   {
     "package": "CIplot",
-    "oncran": true
-  },
-  {
-    "package": "makedummies",
     "oncran": true
   }
 ]
