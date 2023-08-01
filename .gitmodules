@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "brunnermunzel"]
-	path = brunnermunzel
-	url = https://github.com/toshi-ara/brunnermunzel
 [submodule "CIplot"]
 	path = CIplot
 	url = https://github.com/toshi-ara/ciplot
+[submodule "brunnermunzel"]
+	path = brunnermunzel
+	url = https://github.com/toshi-ara/brunnermunzel
 [submodule "makedummies"]
 	path = makedummies
 	url = https://github.com/toshi-ara/makedummies
